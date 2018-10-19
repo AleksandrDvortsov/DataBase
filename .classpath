@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Person_final_19_03_18"/>
+	<classpathentry kind="src" path="Paint_05.04.18 CW"/>
+	<classpathentry kind="src" path="XZ"/>
+	<classpathentry kind="lib" path="lib/h2-1.4.197.jar"/>
+	<classpathentry kind="lib" path="Person_final_19_03_18/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
